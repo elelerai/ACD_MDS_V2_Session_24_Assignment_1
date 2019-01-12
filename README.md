@@ -2,7 +2,7 @@
 ## Introduction
 This assignment will help you to consolidate the concepts learnt in the session.
 
-##2 Problem Statement
+## 2 Problem Statement
 Predicting Survival in the Titanic Data Set
 We will be using a decision tree to make predictions about the Titanic data set from
 Kaggle. This data set provides information on the Titanic passengers and can be used to
